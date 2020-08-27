@@ -159,3 +159,7 @@ The cartridge shell's color is a dark black rather than a dark gray that most sh
 Don't know if your cartridge is dark black or dark gray? Colorblind? NO PROBLEM! The back of the cartridge will display "NTR-031. PAT. PEND." rather than the usual "NTR-005 PAT. PEND.". Not only that, but if you put a very strong light in the front of the cartridge, you should see a purple-ish glow and transparency to the shell.
 
 <img src="img/game-specific/pkmn-hg-ss-infrared.png" height="200px">
+
+---
+
+### Have some nice information? Did I miss something? Feel free to make a [GitHub Issue](https://github.com/rlaPHOENiX/IsMyNDSCartFake/issues) explaining, or perhaps even push a Pull Request.
