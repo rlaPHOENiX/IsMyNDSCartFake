@@ -1,7 +1,7 @@
 # Is your Nintendo DS Cartridge Counterfeit?
 
 A comprehensive guide on checking or verifying if a Nintendo DS cartridge is real/legit or counterfeit/fake.
-I made this specifically due to the fragmented and often old and outdated information, since this is on GitHub Gist, other kind people can always comment and let other's know some tips which I can then update this document with, so make sure you always share the gist link, and not a download or export of this information.
+I made this specifically due to the fragmented and often old and outdated information, since this is on hosted on GitHub, other kind people can always create a new issue topic, or discuss tips and tricks, or even help me spare time with creating a pull request with changes, allowing this document to stay up to date. Make sure you always share the page link ([rlaphoenix.github.io/IsMyNDSCartFake](https://rlaphoenix.github.io/IsMyNDSCartFake)), and not a download or export of this information.
 
 I recommend verifying the information in the order shown for swiftness, the more down the list you go the harder or more time consuming stuff get's to verify.
 
