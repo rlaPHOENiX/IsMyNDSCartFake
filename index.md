@@ -42,7 +42,7 @@ If you spot this, do not purchase it. That is usually done to hide stuff like th
 
 ### 1. Sticker Code
 
-<img src="img/sticker-code/location.png" height="200px">
+<img src="img/sticker-code.png" height="200px">
 
 #### Format
 
@@ -67,7 +67,7 @@ Some Demo cartridges have the same format, but also has `DIS-` at the start.
 
 ### 2. Shell's Cartridge Serial
 
-<img src="img/cartridge-serial/location.png" height="200px">
+<img src="img/cartridge-serial.png" height="200px">
 
 #### Format
 
@@ -121,8 +121,8 @@ The blank bits under the contacts (where most of the contacts have less height),
 
 #### Real vs Fake Example
 
-<img src="real-patent-line.png" height="50px">
-<img src="fake-patent-line.png" height="50px">
+<img src="img/component-info/real.png" height="50px">
+<img src="img/component-info/fake.png" height="50px">
 
 > This is a side by side (same lighting condition) example. Notice how the spacing is off, the font is different, and how it's way more embossed and darker than the real one, as well as the general colors not matching.
 
@@ -141,8 +141,8 @@ The blank bits under the contacts (where most of the contacts have less height),
 
 #### Real vs Fake Example
 
-<img src="real-logo.png" height="50px">
-<img src="fake-logo.png" height="50px">
+<img src="img/nintendo-logo/real.png" height="50px">
+<img src="img/nintendo-logo/fake.png" height="50px">
 
 > This is a side by side (same lighting condition) example. Notice how the spacing around the text but inside the outline is off, the font is different, and how it's way more embossed and darker than the real one. Also notice how the line thickness near the top and bottom characters is very thin on the original, but isn't on the fake, its just a linear thickness.
 
