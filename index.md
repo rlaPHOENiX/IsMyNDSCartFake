@@ -52,7 +52,7 @@ More specifically, the format is `SYSTEMID-GAMEID-REGION`.
 `NOT FOR RESALE` cartridges have the same format.  
 Some Demo cartridges have the same format, but also has `DIS-` at the start.
 
-> SYSTEMID: `NTR` for most games, or `TWL` for DSi Exclusive games.
+> SYSTEMID: `NTR` for most games, or `TWL` for DSi Enhances or Exclusive games.
 
 > GAMEID: Four characters of uppercase-only alphanumeric. This isn't unique to every cartridge, but it's unique to every game.
 
