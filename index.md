@@ -150,11 +150,18 @@ The blank bits under the contacts (where most of the contacts have less height),
 
 Yes actually! But the following isn't even close to a comprehensive list of possibilities, though it does give a good idea what has been tried. Follow the above information first, and then read the game-specific notes.
 
-### Pokemon HeartGold and SoulSilver Version
+### Infrared Cartridges (NTR-031) for anti-piracy
 
-These game's tried a very nice trick to anti-piracy which helps verify it as a legitimate or not cartridge (it also helps tremendously against fake cartridges).
+The following games used this cartridge:
 
-The cartridge shell's color is a dark black rather than a dark gray that most shells are. Why Black? The cartridge uses infrared technology inside as a way to see if the ROM is being played from an actual cartridge or from a flash card. Infrared light caused it to be quite noticable and annoying so they changed it to a darker black to block light much more.
+- Pokémon HeartGold and SoulSilver Version ([NTR-IPKE](https://www.gametdb.com/DS/IPKE), [NTR-IPGE](https://www.gametdb.com/DS/IPGE))
+- Pokémon Black and White Version ([TWL-IRBO](https://www.gametdb.com/DS/IRBO), [TWL-IRAO](https://www.gametdb.com/DS/IRAO))
+- Pokémon Black 2 and White 2 Version ([TWL-IREO](https://www.gametdb.com/DS/IREO), [TWL-IRDO](https://www.gametdb.com/DS/IRDO))
+- *any more? make a pull request!*
+
+The cartridge shell's color is a noticably dark black compared to a dark gray that most shells are. Why Black? The cartridge uses infrared technology inside as a way to see if the ROM is being played from an actual cartridge or from a flash card. Infrared light caused it to be quite noticable and annoying so they changed it from a dark gray, to a very dark black to further block infrared light from escaping.
+
+The infrared cartridge may have also been used in-game for communication features, e.g. the Pokewalker.
 
 Don't know if your cartridge is dark black or dark gray? Colorblind? NO PROBLEM! The back of the cartridge will display "NTR-031. PAT. PEND." rather than the usual "NTR-005 PAT. PEND.". Not only that, but if you put a very strong light in the front of the cartridge, you should see a purple-ish glow and transparency to the shell.
 
